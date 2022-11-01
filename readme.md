@@ -1,6 +1,6 @@
 Hello, I'm Murilo! 👋
 
-I'm 17 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
+I'm 18 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
 
 📜 ● I'm currently studying react
 🏫 ● In High School
