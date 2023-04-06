@@ -37,7 +37,7 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
 
 </div>
 
-##
+## Socials
 
 <div>
   <a href="https://instagram.com/murilo_cds_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
