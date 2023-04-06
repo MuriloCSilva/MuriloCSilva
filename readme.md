@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=MuriloCSilva)
 
-# Hello, I'm Murilo! 👋
+## Hello, I'm Murilo! 👋
 
 I'm 18 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
 
-📜 ● I'm currently studying react
-🏫 ● In High School
+📜 ● I'm currently studying vue<br>
+🏫 ● In High School<br>
 📕 ● Studying to become a full stack programmer
 
 ##
