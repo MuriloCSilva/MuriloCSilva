@@ -39,8 +39,9 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 
 </div>
-
 <br>
+  
+## Socials 🌐
 <div>
   <a href="https://instagram.com/murilo_cds_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
