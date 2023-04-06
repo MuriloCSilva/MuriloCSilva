@@ -8,7 +8,7 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
 🏫 ● In High School<br>
 📕 ● Studying to become a full stack programmer
 
-##
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/MuriloCSilva">
