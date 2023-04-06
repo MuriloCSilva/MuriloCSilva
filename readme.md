@@ -8,7 +8,7 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
 🏫 ● In High School<br>
 📕 ● Studying to become a full stack programmer
 
-## GitHub Stats
+## GitHub Stats 📊
 
 <div align="center">
   <a href="https://github.com/MuriloCSilva">
@@ -17,7 +17,7 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
 </div>
 <br>
   
-
+## Skills 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
