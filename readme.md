@@ -14,7 +14,7 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCSilva&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-# Skills
+## Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
