@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=MuriloCSilva)
 
-Hello, I'm Murilo! 👋
+#Hello, I'm Murilo! 👋
 
 I'm 18 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
 
