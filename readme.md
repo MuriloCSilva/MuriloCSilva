@@ -21,6 +21,8 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
   <img align="center" alt="Murilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Murilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg">
+  <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Murilo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/902517945299787797/911301023233093663/PicsArt_11-19-02.04.44.png">
 </div>
 
