@@ -29,8 +29,5 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
 ##
 
 <div>
-  <a href="https://www.youtube.com/channel/UCL0bRCsLlv8JR1TLO_SzSug" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/murilo_cds_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/mx_gam3r" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/a5Rj6ppwGE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/murilo_cds_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-
 </div>
