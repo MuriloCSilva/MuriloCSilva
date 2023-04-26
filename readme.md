@@ -10,7 +10,7 @@ I'm 18 years old. I'm always learning new technologies from the programming worl
 
 ## GitHub Stats 📊
 
-<<div align="center">
+<div align="center">
   <a href="https://github.com/MuriloCSilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GeronPecora&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeronPecora&layout=compact&langs_count=7&theme=midnight-purple"/>
