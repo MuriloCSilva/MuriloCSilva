@@ -2,7 +2,7 @@
 
 ## Hello, I'm Murilo! 👋
 
-I'm 20 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
+I'm 21 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
 
 📜 ● I'm currently studying vue<br>
 📕 ● Studying to become a full stack programmer
@@ -11,7 +11,7 @@ I'm 20 years old. I'm always learning new technologies from the programming worl
 
 <div align="center">
   <a href="https://github.com/MuriloCSilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuriloCSilva"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuriloCSilva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCSilva&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <br>
