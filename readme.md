@@ -4,9 +4,6 @@
 
 I'm 21 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
 
-📜 ● I'm currently studying vue<br>
-📕 ● Studying to become a full stack programmer
-
 ## GitHub Stats 📊
 
 <div align="center">
