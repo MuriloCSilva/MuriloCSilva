@@ -2,8 +2,6 @@
 
 ## Hello, I'm Murilo! 👋
 
-I'm 21 years old. I'm always learning new technologies from the programming world. If you need help, feel free to ask me for help.
-
 ## GitHub Stats 📊
 
 <div align="center">
